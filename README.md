@@ -1,4 +1,4 @@
-# EKG-Heart_rate_variability
+# EKG Heart rate variability monitoring
 Simple Arduino program to measure heart rate, heart rate variability etc. 
 The data can be used to measure fittnes or recovery after a workout for optimal training. The measurement has to be performed seated due to the design's limitations.
 
